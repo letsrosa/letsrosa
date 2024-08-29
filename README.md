@@ -10,7 +10,23 @@
 
 <!-- Introduction -->
 <p align="center">
-  Seja bem-vindo(a)! <br>
+  Seja bem-vindo! <br>
   Meu nome é Letícia e esse é meu repositório. <br>
-  Sou aluna de Ciências da Computação e de Desenvolvimento de Software <br> 
+  Irei hospedar alguns projetos acadêmicos e pessoais, me acompanhe!
 </p>
+
+## 📚 Educação
+
+**Ciência da Computação** - UNICSUL 
+<br>
+
+**Desenvolvimento de Sistemas** - SENAI
+<br>
+<br>
+## 🌱 Linguagens
+
+<div style="display: flex; flex-direction: row; gap: 20px;">
+    <img align="center" alt="Andre-Java" height="30" width="40" src="https://icongr.am/devicon/java-plain.svg?size=128&color=be1e1e" />
+    <img align="center" alt="Andre-Node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Andre-React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+</div>
